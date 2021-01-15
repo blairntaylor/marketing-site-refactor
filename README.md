@@ -9,3 +9,5 @@ In this project, we were supposed to take an index and css file and refactor the
 ![marketing-site-refactor](screenshot.png)
 
 #### LINK
+
+https://blairntaylor.github.io/marketing-site-refactor/
