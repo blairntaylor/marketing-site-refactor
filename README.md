@@ -6,6 +6,6 @@ In this project, we were supposed to take an index and css file and refactor the
 
 ##### SCREENSHOT
 
-![Horiseon-Website](screenshot.png)
+![marketing-site-refactor](screenshot.png)
 
 #### LINK
